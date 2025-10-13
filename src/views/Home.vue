@@ -22,11 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
+              p.descripcion.mb-4 Desde los primeros años de vida, los objetos acompañan el desarrollo de los niños y las niñas, no solo como herramientas prácticas, sino como vehículos simbólicos cargados de sentido. En esta unidad, se estudiará el papel que desempeñan los objetos en el contexto educativo infantil, destacando su valor funcional, estético y pedagógico. Se analizará cómo estos recursos pueden enriquecer la experiencia de aprendizaje, fortalecer los vínculos entre el hogar y la escuela, y promover la inclusión, la sostenibilidad y la innovación en el diseño de materiales educativos. 
               
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p #[b ¡Prepárese para diseñar entornos pedagógicos con creatividad, sensibilidad y propósito educativo!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
