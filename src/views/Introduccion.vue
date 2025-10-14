@@ -25,7 +25,7 @@
           p La pertinencia de este tema se enmarca en el compromiso con una educación infantil activa, sensible y situada. Diseñar materiales no es solo una labor técnica, sino una acción reflexiva que implica comprender las etapas del desarrollo infantil, aplicar criterios pedagógicos pertinentes y reconocer la diversidad en el aula.
           p.mb-0 En este sentido, la clasificación de materiales (estructurados, no estructurados, objetos de aprendizaje y de la naturaleza) permite establecer criterios para su uso significativo. 
     
-    .bg-full-width.bg-color-.mb-5
+    .bg-full-width.bg-color-4.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
           .col-lg-auto
