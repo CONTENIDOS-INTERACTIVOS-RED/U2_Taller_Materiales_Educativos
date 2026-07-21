@@ -351,12 +351,12 @@ export default {
               {
                 id: 'a',
                 texto: 'El tema central del contenido.',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'b',
                 texto: 'Los colores a usar en el diseño.',
-                esCorrecta: true,
+                esCorrecta: false,
               },
               {
                 id: 'c',

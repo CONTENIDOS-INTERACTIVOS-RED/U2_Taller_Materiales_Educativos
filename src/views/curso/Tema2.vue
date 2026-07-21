@@ -235,10 +235,6 @@
               a(href="https://revistas.cardenalcisneros.es/article/view/5884" target="_blank" rel="noopener noreferrer") Rodrigo Moriche, M., & Gómez Redondo, C. (2023). El material no estructurado en la práctica educativa dentro del primer ciclo de Educación infantil. 
 
 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.scielo.cl/scielo.php?pid=S0718-07052009000100016&script=sci_arttext scielo.sld.cu+5scielo.cl+5" target="_blank" rel="noopener noreferrer") Chiappe, A., et al. (2007). Acerca de lo pedagógico en los objetos de aprendizaje. SciELO Chile. 
-
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
