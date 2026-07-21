@@ -190,12 +190,14 @@ export default {
     },
     {
       referencia: 'UNICEF. (2019). Aprendizaje a través del juego. ',
-      link: 'https://www.unicef.org/sites/default/files/2019-01/UNICEF-Lego-Foundation-Aprendizaje-a-traves-del-juego.pdf',
+      link:
+        'https://www.unicef.org/sites/default/files/2019-01/UNICEF-Lego-Foundation-Aprendizaje-a-traves-del-juego.pdf',
     },
     {
       referencia:
         'Gobierno de México, SEP. (2022). Diseño y producción de materiales didácticos. ',
-      link: 'https://dgesum.sep.gob.mx/storage/recursos/planes2022/jXbLJDlLGR-4126.pdf',
+      link:
+        'https://dgesum.sep.gob.mx/storage/recursos/planes2022/jXbLJDlLGR-4126.pdf',
     },
     {
       referencia:
@@ -234,7 +236,8 @@ export default {
     },
     {
       referencia: 'Revista de Estilos de Aprendizaje, 13(25), 29-41. ',
-      link: 'https://revistaestilosdeaprendizaje.com/article/download/1491/2872/4887 ',
+      link:
+        'https://revistaestilosdeaprendizaje.com/article/download/1491/2872/4887 ',
     },
     {
       referencia:
@@ -254,17 +257,26 @@ export default {
     {
       referencia:
         'Juego, interacción y material educativo en el nivel Preescolar. (2012). Universidad Alberto Hurtado - Chile. ',
-      link: 'https://siteal.iiep.unesco.org/sites/default/files/sit_investigacion_pdf/1843.pdf ',
+      link:
+        'https://siteal.iiep.unesco.org/sites/default/files/sit_investigacion_pdf/1843.pdf ',
     },
     {
       referencia:
         'Universidad Politécnica Salesiana. (2017). Estrategias para desarrollar la creatividad en la educación infantil.  ',
-      link: 'https://dspace.ups.edu.ec/bitstream/123456789/15237/1/UPS-CT007515.pdf',
+      link:
+        'https://dspace.ups.edu.ec/bitstream/123456789/15237/1/UPS-CT007515.pdf',
     },
     {
       referencia:
         'Fundación Universitaria Los Libertadores. (2016). Estrategias de enseñanza creativa. Biblioteca Virtual CLACSO.  ',
-      link: 'https://biblioteca.clacso.edu.ar/Colombia/fce-unisalle/20180225093550/estrategiasen.pdf',
+      link:
+        'https://dspace.ups.edu.ec/bitstream/123456789/15237/1/UPS-CT007515.pdf',
+    },
+    {
+      referencia:
+        'Fundación Universitaria Los Libertadores. (2016). Estrategias de enseñanza creativa. Biblioteca Virtual CLACSO.  ',
+      link:
+        'https://biblioteca.clacso.edu.ar/Colombia/fce-unisalle/20180225093550/estrategiasen.pdf',
     },
   ],
   glosario: [
